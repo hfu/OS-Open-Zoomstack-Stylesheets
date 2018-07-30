@@ -6,11 +6,11 @@ These are SLD files for OS Open Zoomstack.
 
 ## Setup
 
-You will need to copy the folder of SVGs into the right location before applying the styles. In Geoserver on Windows this is typically C:\Program Files (x86)\Geoserver 2.x.x\data_dir\styles.
+You will need to copy the folder of SVGs (osgb-zoomstack-symbols) into the right location before applying the styles. In Geoserver on Windows this is typically *C:\Program Files (x86)\Geoserver 2.x.x\data_dir\styles*.
 
 Create a Layer Group with the following layer order:
 
-
+![Screenshot](https://raw.githubusercontent.com/OrdnanceSurvey/OS-Open-Zoomstack-Stylesheets/master/GeoPackage%20and%20PostGIS/Styled%20Layer%20Descriptors%20(SLD)/Layer%20Order.PNG "Recommended layer order for OS Open Zoomstack")
 
 ## Additional information
 
